@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+#app-notification-container {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+}
