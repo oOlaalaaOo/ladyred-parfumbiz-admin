@@ -27,6 +27,7 @@ const MyApp = ({ Component, pageProps }: AppPropsWithLayout) => {
                     colorScheme: 'light',
                     fontFamily: 'Inter',
                     headings: { fontFamily: 'Poppins' },
+                    primaryColor: 'red',
                 }}
             >
                 <CustomFonts />
